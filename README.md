@@ -1,4 +1,5 @@
 # Hidden Bits: A Survey of Techniques for Digital Watermarking
+# EER-290, Chris Shoemaker, Union College - Schenectady, NY
 
 As part of an independent study carried out throughout the winter and spring of 2002, I investigated several techniques for the watermarking of digital images. The study consisted of three stages:
 
