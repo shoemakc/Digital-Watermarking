@@ -1,8 +1,6 @@
 # Hidden Bits: A Survey of Techniques for Digital Watermarking
 
-As part of an independent study carried out throughout the winter and spring of 2002, I investigated several techniques for the watermarking of digital images.
-
-The study consisted of three stages:
+As part of an independent study carried out throughout the winter and spring of 2002, I investigated several techniques for the watermarking of digital images. The study consisted of three stages:
 
     Research current techniques for digital watermarking
     Impliment several of these techniques in MATLAB
